@@ -1,0 +1,8 @@
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\bin\Debug\Main.exe.config
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\bin\Debug\Main.exe
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\bin\Debug\Main.pdb
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\bin\Debug\Bookstore.dll
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\bin\Debug\Bookstore.pdb
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\obj\Debug\Main.exe
+C:\Users\Desmond\Desktop\Practice\Bookstore\Main\obj\Debug\Main.pdb

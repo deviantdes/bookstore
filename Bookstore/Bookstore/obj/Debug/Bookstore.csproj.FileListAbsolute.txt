@@ -1,0 +1,5 @@
+C:\Users\Desmond\Desktop\Practice\Bookstore\Bookstore\bin\Debug\Bookstore.dll
+C:\Users\Desmond\Desktop\Practice\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\Desmond\Desktop\Practice\Bookstore\Bookstore\obj\Debug\Bookstore.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\Practice\Bookstore\Bookstore\obj\Debug\Bookstore.dll
+C:\Users\Desmond\Desktop\Practice\Bookstore\Bookstore\obj\Debug\Bookstore.pdb
